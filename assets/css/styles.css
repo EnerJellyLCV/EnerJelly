@@ -363,7 +363,7 @@ img{
   font-size: var(--normal-font-size);
 }
 
-.menu__detail, .menu__preci{
+.menu__detail, menu__preci{
   font-size: var(--small-font-size);
 }
 
